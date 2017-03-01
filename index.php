@@ -8,7 +8,7 @@
 
 $myArray = array("do","re","mi");
 
-echo $myArray[0]
+echo $myArray[2]
 
 
 ?>
