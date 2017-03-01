@@ -6,20 +6,10 @@
 
 <?php
 
-$i = "1...30";
+$month = array();
+for ($i=1; $i<31; $i++)
 
-if ($i == "1") {
-    echo "no products availabledd";
-} else
-    if ($i == "2") {
-        echo "specs are available";
-    } elseif ($i == "3") {
-        echo "mugs are available";
-    } elseif ($i == "4") {
-        echo "specs and sausage rolls are available";
-    }
-
-
+    foreach($month as $i){print "$i";}
 ?>
 
 </body>
