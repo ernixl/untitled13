@@ -5,16 +5,10 @@
 <body>
 
  <?php
-echo "Hello World!";
-echo "<p>Hello,"." "."world"."!";
-echo "<p> its been always me all the way</p>";
-echo "5*7";
- echo 5 * 7;
 
- $name = "Frodo Baggins";
- $age = 111;
-
- echo "<p>My name is ".$name. "and I am " .$age;
+ $age="16";
+ if ($age >= "16" or $age <= "18"){print "specs";}
+ else{}
  
  
  
