@@ -7,7 +7,7 @@
 <?php
 $day = 30;
 
-echo "me" .$day;
+echo "meuuu" .$day;
 ?>
 
 </body>
