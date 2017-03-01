@@ -11,14 +11,12 @@ $random = rand(0, 3);
 if ($random = 0) {
     print "mugs";
 } elseif
-($random = 1
-) {
-    print "specs";
-} elseif
 ($random = 2
 ) {
+    print "specs";
+} else
     print "sausages";
-}
+
 
 
 
