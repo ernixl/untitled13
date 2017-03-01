@@ -5,11 +5,9 @@
 <body>
 
 <?php
-$day = "$day<30";
+$day = $day<30;
 
-foreach( $day as $x) {
-    print "<p>$x</p>";
- }
+echo "me" .$day;
 ?>
 
 </body>
