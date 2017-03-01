@@ -6,7 +6,7 @@
 
 <?php
 
-$age = "19";
+$age = "22";
 if ($age >= "16" and $age <= "18") {
     print "specs, ";
 } else {
@@ -17,7 +17,7 @@ if ($age >= "16" and $age <= "18") {
     }
 }
 
-echo "you nd me";
+echo "<p>completed";
 ?>
 
 </body>
