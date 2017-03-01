@@ -6,7 +6,7 @@
 
 <?php
 
-$wantedgoods = "specs";
+$wantedgoods = "sausagerolls";
 
 switch ($wantedgoods) {
     case specs:
