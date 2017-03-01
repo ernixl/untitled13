@@ -1,24 +1,19 @@
 <!DOCTYPEhtml>
 <html>
- <head>
+<head>
 </head>
 <body>
 
- <?php
+<?php
 
- $age="16";
- if ($age >= "16" or $age <= "18"){print "specs";}
- else{}
- 
- 
- 
-
+$age = "16";
+if ($age >= "16" or $age <= "18") {
+    print "specs";
+} else {
+}
 
 
-
-
-
- ?>
+?>
 
 </body>
 </html>
