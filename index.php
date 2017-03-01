@@ -6,7 +6,7 @@
 
 <?php
 
-for ($i=1;$i<=3;$i++){
+for ($i=1;$i<=30;$i++){
     echo "$i. Hello World!<br />"; }
 
 ?>
