@@ -6,7 +6,7 @@
 
 <?php
 
-$i = "3";
+$i = "1";
 
 if ($i == "1") {
     echo "no products availabledd";
