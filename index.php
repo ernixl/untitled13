@@ -10,7 +10,7 @@
 
 if ($i = "1") {
     echo "no products available";
-} else {
+} else
     if ($i = "2") {
         echo "specs are available";
     } elseif ($i = "3") {
@@ -18,7 +18,7 @@ if ($i = "1") {
     } elseif ($i = "4") {
         echo "specs and sausage rolls are available";
     }
-}
+
 
 ?>
 
