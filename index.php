@@ -7,6 +7,7 @@
 <?php
 
 $provisionedactivity = array("specs ","mugs ","sausage-rolls");
+$provisionedactivity [2]="hugs";
 
 foreach($provisionedactivity as $x) {
     print "$x";
