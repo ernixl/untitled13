@@ -6,11 +6,12 @@
 
 <?php
 
-$age = "18";
+$age = "19";
 if ($age >= "16" or $age <= "18") {
     print "specs";
-} else {
 }
+
+if ($age >= "18" or $age <= "21"){print "mugs";}
 
 
 ?>
