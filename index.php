@@ -5,7 +5,7 @@
 <body>
 
 <?php
-$day = $day<30;
+$day = 30;
 
 echo "me" .$day;
 ?>
