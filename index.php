@@ -7,9 +7,8 @@
 <?php
 $day = "$day<30";
 
-for ($day = 2; $day < 10; $day++)
-{
-    echo "<p>Hello you</p>";
+foreach( $day as $x) {
+    print "<p>$x</p>";
  }
 ?>
 
