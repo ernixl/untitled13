@@ -5,8 +5,8 @@
 <body>
 
  <?php
-print "<p>Hello World!";
-echo "Hello,"." "."world"."!";
+echo "Hello World!";
+echo "<p>Hello,"." "."world"."!";
  ?>
 
 </body>
