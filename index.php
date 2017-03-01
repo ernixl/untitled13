@@ -13,7 +13,7 @@ if ($age >= "16" and $age <= "18") {
     if ($age >= "18" and $age <= "21") {
         print "specs and mugs";
     } else if ($age > "21") {
-        print "sausage rolls.";
+        print "specs, mugs and sausage rolls.";
     }
 }
 
