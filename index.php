@@ -17,7 +17,7 @@ if ($age >= "16" or $age <= "18") {
     }
 }
 
-echo "you nd me";
+echo "you aand me";
 ?>
 
 </body>
