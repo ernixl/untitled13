@@ -6,12 +6,14 @@
 
 <?php
 
-for ($i = 1; $i <= 30; $i++)
+$mugs = "mugs are available";
+$saus = "sausage rolls are available";
+$specs = "specs are available";
 
-    if ($i = 4 and $i = 16) {
-
-        echo "<p>$i.mugs</p>";
-    }
+$d = 0;
+for ($i=0,$j=1;$d=29;$i++,$j++) {
+    $d = $i + $j;
+    echo "$t<br />"; }
 
 ?>
 
