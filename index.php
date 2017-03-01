@@ -6,9 +6,12 @@
 
 <?php
 
-for ($i = 1; $i <= 30; $i++) {
-    echo "<p>$i.mugs</p>";
-}
+for ($i = 1; $i <= 30; $i++)
+
+    if ($i = 4 or $i = 16) {
+
+        echo "<p>$i.mugs</p>";
+    }
 ?>
 
 </body>
