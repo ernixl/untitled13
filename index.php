@@ -9,7 +9,7 @@
 $provisionedactivity = array("specs","mugs","sausage rolls");
 
 foreach($provisionedactivity as $x) {
-    print "$x";
+    print " $x ";
  }
 
 
