@@ -10,7 +10,7 @@ $mugs = "mugs are available";
 $saus = "sausage rolls are available";
 $specs = "specs are available";
 
-for ($i = 1; $d <=30; $i ++)
+for ($d = 1; $d <=30; $d ++)
     if ($d % 2 == 0) {
         print "$d.It's even";
     }
