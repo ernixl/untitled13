@@ -7,7 +7,8 @@
  <?php
 echo "Hello World!";
 echo "<p>Hello,"." "."world"."!";
-echo "<p> its been always me all the way";
+echo "<p> its been always me all the way</p>";
+echo 5*7;
  ?>
 
 </body>
