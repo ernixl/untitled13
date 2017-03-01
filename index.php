@@ -6,17 +6,17 @@
 
 <?php
 
-$i = "4";
+    $i = "4";
 
 if ($i = "1") {
-    print "no products availabledd";
+    echo "no products availabledd";
 } else {
     if ($i = "2") {
-        print "specs are available";
+        echo "specs are available";
     } elseif ($i = "3") {
-        print "mugs are available";
+        echo "mugs are available";
     } elseif ($i = "4") {
-        print "specs and sausage rolls are available";
+        echo "specs and sausage rolls are available";
     }
 }
 
