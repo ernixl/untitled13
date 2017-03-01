@@ -13,7 +13,9 @@ $specs = "specs are available";
 $d = 0;
 for ($i = 0, $j = 1; $d <= 28; $i++, $j++) {
     $d = $i + $j;
-    echo "$d.megan<br />";
+    if ($d % 2 == 0) {
+        print "It's even";
+    }
 }
 
 ?>
