@@ -6,9 +6,11 @@
 
 <?php
 
-$myArray = array("do","re","mi");
+$provisionedactivity = array("specs","mugs","sausage rolls");
 
-echo $myArray[2]
+foreach($provisionedactivity as $x) {
+    print "<p>$x</p>";
+ }
 
 
 ?>
