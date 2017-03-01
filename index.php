@@ -6,26 +6,21 @@
 
 <?php
 
-$numberOfHobbits = 0;
+$wantedgoods = "mugs";
 
-switch ($numberOfHobbits){
-    case 1:
-        echo"1 sad hobbit";
+switch ($wantedgoods) {
+    case specs:
+        echo "You have to be above 16 to buy specs";
         break;
-    case 2:
-        echo"2 happy hobbits";
+    case mugs:
+        echo "You have to be above 18 to buy mugs";
         break;
-    case 3:
-        echo "3 hobbits are a crowd";
+    case sausagerolls:
+        echo "You have to be above 21 to buy sausage rolls";
         break;
     default:
-        echo "All the hobbits have gone home";
+        echo "enter your query";
 }
-
-
-
-
-
 
 
 ?>
