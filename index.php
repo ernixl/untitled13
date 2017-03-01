@@ -17,7 +17,7 @@ for ($d = 1; $d <= 30; $d++)
         print "<p>on the " . $d . " of this month mugs are available</p>";
     } elseif ($d % 3 != 0) {
         print "<p>on the " . $d . " of this month no products are available</p>";
-    } elseif ($d % 2 != 0) print "on the " . $d . " of this month specs are available";
+    } elseif ($d % 2 != 0) print "on the " . $d . " of this month specsavers are available";
 
 ?>
 
