@@ -10,12 +10,10 @@ $age = "17";
 if ($age >= "16" or $age <= "18") {
     print "specs, ";
 }
-
-if ($age >= "18" or $age <= "21") {
+elseif ($age >= "18" or $age <= "21") {
     print "mugs, ";
 }
-
-if ($age > "21") {
+elseif ($age > "21") {
     print "sausage rolls.";
 }
 
