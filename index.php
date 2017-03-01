@@ -11,9 +11,9 @@ $saus = "sausage rolls are available";
 $specs = "specs are available";
 
 $d = 0;
-for ($i = 0, $j = 1; $d <= 29; $i++, $j++) {
+for ($i = 0, $j = 1; $d <= 28; $i++, $j++) {
     $d = $i + $j;
-    echo "$d.3megan<br />";
+    echo "$d.megan<br />";
 }
 
 ?>
