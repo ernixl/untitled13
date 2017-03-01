@@ -5,9 +5,12 @@
 <body>
 
 <?php
-$day = $day<30;
+$username = "Fred Smith";
+echo $username;
+echo "<br>";
+$current_user = $username;
 
-echo "meu" .$day;
+echo $current_user;
 ?>
 
 </body>
