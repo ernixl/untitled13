@@ -9,7 +9,7 @@
 $i = "4";
 
 if ($i = "1") {
-    print "no products available";
+    print "no products availabledd";
 } else {
     if ($i = "2") {
         print "specs are available";
