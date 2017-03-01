@@ -6,14 +6,19 @@
 
 <?php
 
-$provisionedactivity = array("specs ", "mugs ", "sausage-rolls");
-$provisionedactivity [1] = "hugs";
-unset($provisionedactivity[2]);
+$i = "2";
 
-foreach ($provisionedactivity as $x) {
-    print "$x";
+if ($i = "1"){
+    print "no products available";
 }
-
+else {
+    if ($i = "2") {
+        print "specs are available";
+    } else if ($i = "3") {
+        print "mugs are available";} else if ($i = "4") {
+        print "specs and sausage rolls are available";
+    }
+}
 
 ?>
 
