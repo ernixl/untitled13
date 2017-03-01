@@ -13,9 +13,9 @@ if ($i = "1") {
 } else {
     if ($i = "2") {
         print "specs are available";
-    } else if ($i = "3") {
+    } elseif ($i = "3") {
         print "mugs are available";
-    } else if ($i = "4") {
+    } elseif ($i = "4") {
         print "specs and sausage rolls are available";
     }
 }
