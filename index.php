@@ -5,7 +5,7 @@
 <body>
 
  <?php
-echo "<p>Hello World!";
+print "<p>Hello World!";
 echo "Hello,"." "."world"."!";
  ?>
 
