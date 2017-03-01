@@ -7,7 +7,7 @@
 <?php
 
 for ($i=1;$i<=30;$i++){
-    echo "$i.mugs";
+    echo "<p>$i.mugs</p>";
 }
 ?>
 
