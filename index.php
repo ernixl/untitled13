@@ -9,7 +9,7 @@
 
 $setarray = array("$i = 4; $i <= 30; $i *= 4");
 foreach ($setarray as $x) {
-    print "<p>$x</ p>";
+    echo "<p>$x</ p>";
 }
 
 ?>
