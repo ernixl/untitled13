@@ -9,7 +9,7 @@
     $i = "4";
 
 if ($i = "1") {
-    echo "no products availabledd";
+    echo "no products available";
 } else {
     if ($i = "2") {
         echo "specs are available";
