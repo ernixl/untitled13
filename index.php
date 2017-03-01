@@ -5,12 +5,9 @@
 <body>
 
 <?php
-$username = "Fred Smith";
-echo $username;
-echo "<br>";
-$current_user = $username;
 
-echo $current_user;
+for ($i=1;$i<=3;$i++) {echo “$i. Hello World!<br />”; }
+
 ?>
 
 </body>
