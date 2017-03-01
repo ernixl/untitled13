@@ -5,11 +5,11 @@
 <body>
 
 <?php
+$day = "$day<30";
 
-
-for ($i = 2; $i < 10; $i++)
+for ($day = 2; $i < 10; $i++)
 {
-    echo "<p>Hello! </p>";
+    echo "<p>Hello</p>";
  }
 ?>
 
