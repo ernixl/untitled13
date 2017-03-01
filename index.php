@@ -8,14 +8,14 @@
 
 $i = "2";
 
-if ($i = "1"){
+if ($i = "1") {
     print "no products available";
-}
-else {
+} else {
     if ($i = "2") {
         print "specs are available";
     } else if ($i = "3") {
-        print "mugs are available";} else if ($i = "4") {
+        print "mugs are available";
+    } else if ($i = "4") {
         print "specs and sausage rolls are available";
     }
 }
