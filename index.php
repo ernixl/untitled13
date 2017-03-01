@@ -6,7 +6,7 @@
 
 <?php
 
-$random = rand(0, 3);
+$random = rand(0,2);
 
 if ($random = 0) {
     print "mugs";
