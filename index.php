@@ -5,9 +5,9 @@
 <body>
 
 <?php
-$day = 30;
+$day = $day<30;
 
-echo "meuuu" .$day;
+echo "meu" .$day;
 ?>
 
 </body>
