@@ -6,7 +6,7 @@
 
 <?php
 
-$numberOfHobbits = 2;
+$numberOfHobbits = 0;
 
 switch ($numberOfHobbits){
     case 1:
