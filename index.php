@@ -6,7 +6,7 @@
 
 <?php
 
-$i = "2";
+$i = "4";
 
 if ($i = "1") {
     print "no products available";
